@@ -26,7 +26,7 @@ is best shown as:
  Descriptor Class Extends   	| `BuildStepDescriptor<Builder>`    	| `BuildStepDescriptor<Publisher>` 	
 
  
-<img class="blog-post" src="{% asset_path 2015-08-28-jenkins-post-build-plugin-part-2/info.png%}"/>
+<img class="priti" src="{% asset_path 2015-08-28-jenkins-post-build-plugin-part-2/info.png%}"/>
 **Tip:** I would highly recommend going through the comments in `HelloWorldBuilder.java` before delving further because 
 those comments are extremely detailed and give the reader a good insight into working of Jenkins core.
 
